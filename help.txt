@@ -1,0 +1,3 @@
+This program requires a token of a telegram bot that is an admin in the targeted groups
+make sure to keep a token inside a token.txt file and another txt file named clients contains
+the targeted groups names also make sure that these files are at the same path as the program files.
