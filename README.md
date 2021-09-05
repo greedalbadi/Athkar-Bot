@@ -1,5 +1,6 @@
-# Athkar Bot
-## athkar bot is a simple bot that share's islamic athkar automaticly 
+# [Athkar Bot 0.1 Download](https://github.com/greedalbadi/Athkar-Bot/releases/download/0.1/athkar.rar)
+
+### athkar bot is a simple bot that share's islamic athkar automaticly 
 
 ### Features
 - Sends to multiple groups at the same time.
