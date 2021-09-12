@@ -31,8 +31,3 @@ class managent:
                 print(save)
                 message_state = self.commands.delete_message(messages_id_file, self.main_token, channel_id) # delete old message
                 print(f"delete message state: {message_state}")
-
-
-if __name__ == "__main__":
-    o = managent()
-    o.runner()
